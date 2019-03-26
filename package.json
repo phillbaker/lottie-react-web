@@ -51,7 +51,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "lottie-web": "^5.2.1",
-    "lottie-api": "^1.0.0"
+    "lottie-api": "github:phillbaker/lottie-api#50cd2d3"
   },
   "main": "dist/index.js",
   "engines": {
